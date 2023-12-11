@@ -1,6 +1,6 @@
 # Football Expected Goals (xG) Prediction
 
-This repository contains code to predict the Expected Goals (xG) from shots in football using various machine learning models like Linear Regression, XGBoost, and Random Forest.
+This repository contains code to predict the Expected Goals (xG) from shots in football using various machine learning models like Logistic Regression, XGBoost, and Random Forest.
 
 ## Overview
 
@@ -19,8 +19,8 @@ The dataset can be downloaded from this website: https://www.kaggle.com/datasets
 
 ## Models Implemented
 
-### 1. Linear Regression
-- Simple linear regression model trained to predict xG based on shot features.
+### 1. Logistic Regression
+- Simple logistic regression model trained to predict xG based on shot features.
 
 ### 2. XGBoost
 - Gradient Boosting algorithm using the XGBoost library to predict xG. It offers improved performance over traditional boosting methods.
