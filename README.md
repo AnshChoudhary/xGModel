@@ -17,6 +17,11 @@ The dataset used for this project includes information about shots taken during 
 
 The dataset can be downloaded from this website: https://www.kaggle.com/datasets/joopauloduartelima/football-event-data/
 
+## Results
+You can find how the models performed in terms of accuracy, precision, recall and training time in the following table: 
+
+![Results](https://github.com/AnshChoudhary/xGModel/blob/main/Outputs/Screen%20Shot%202023-12-11%20at%202.49.58%20PM.png)
+
 ## Models Implemented
 
 ### 1. Logistic Regression
